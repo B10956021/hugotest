@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on johndoe</title>
-    <link>https://github.com/B10956021/hugotest.git/categories/</link>
+    <link>https://b10956021.github.io/hugotest/categories/</link>
     <description>Recent content in Categories on johndoe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/B10956021/hugotest.git/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://b10956021.github.io/hugotest/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>syntax</title>
-      <link>https://github.com/B10956021/hugotest.git/categories/syntax/</link>
+      <link>https://b10956021.github.io/hugotest/categories/syntax/</link>
       <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/B10956021/hugotest.git/categories/syntax/</guid>
+      <guid>https://b10956021.github.io/hugotest/categories/syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://github.com/B10956021/hugotest.git/categories/themes/</link>
+      <link>https://b10956021.github.io/hugotest/categories/themes/</link>
       <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/B10956021/hugotest.git/categories/themes/</guid>
+      <guid>https://b10956021.github.io/hugotest/categories/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>https://github.com/B10956021/hugotest.git/categories/development/</link>
+      <link>https://b10956021.github.io/hugotest/categories/development/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/B10956021/hugotest.git/categories/development/</guid>
+      <guid>https://b10956021.github.io/hugotest/categories/development/</guid>
       <description></description>
     </item>
     
